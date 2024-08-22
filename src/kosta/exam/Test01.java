@@ -5,6 +5,5 @@ public class Test01 {
 		System.out.println("cart에서 수정함");
 	}
 	public void test() {
-		System.out.println("main에서 test수정");
 	}
 }
